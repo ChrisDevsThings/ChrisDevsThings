@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Chris  
+💻 CS Student | Learning Python & Web Dev  
+🔧 Documenting my coding journey one project at a time  
 
-<!--
-**ChrisDevsThings/ChrisDevsThings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Current Focus
+- Python basics & projects  
+- Web Dev (HTML, CSS, JS)  
+- Building Discord bots & Minecraft plugins later  
 
-Here are some ideas to get you started:
+## 🌟 Goals
+- Contribute daily → fill this graph with green squares  
+- Build a freelancing side income  
+- Share my progress on YouTube & IG  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Fact
+BSOD is my spirit animal 😂
