@@ -4,7 +4,8 @@
 
 ## 🚀 Current Focus
 - Python basics & projects  
-- Web Dev (HTML, CSS, JS)  
+- Web Dev (HTML, CSS, JS)
+- Software Development (C, C++ and C#)
 - Building Discord bots & Minecraft plugins later  
 
 ## 🌟 Goals
