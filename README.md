@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Chris.  
 💻 College student | Learning C++ and Java & Web Dev                                                                                                                           
-🔧 Documenting my coding journey 🚀
+🔧 Documenting my coding journey  
 
 ## 🚀 Current Focus: 
 - Web Dev (HTML, CSS, JS)
