@@ -1,17 +1,16 @@
-# 👋 Hey, I'm Chris  
-💻 CS Student | Learning Python & Web Dev  
-🔧 Documenting my coding journey one project at a time  
+# 👋 Hey, I'm Chris.  
+💻 College student | Learning C++ and Java & Web Dev 
+🔧 Documenting my coding journey 🚀
 
-## 🚀 Current Focus
-- Python basics & projects  
+## 🚀 Current Focus: 
 - Web Dev (HTML, CSS, JS)
 - Software Development (C, C++ and C#)
 - Building Discord bots & Minecraft plugins later  
 
-## 🌟 Goals
+## 🌟 Goals:
 - Contribute daily → fill this graph with green squares  
 - Build a freelancing side income  
 - Share my progress on YouTube & IG  
 
-## ⚡ Fun Fact
-BSOD is my spirit animal 😂
+## ⚡ Fun Fact:
+I like turtles. 🐢
