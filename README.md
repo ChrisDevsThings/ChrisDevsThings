@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Chris.  
-💻 College student | Learning C++ and Java & Web Dev 
+💻 College student | Learning C++ and Java & Web Dev                                                                                                                           
 🔧 Documenting my coding journey 🚀
 
 ## 🚀 Current Focus: 
