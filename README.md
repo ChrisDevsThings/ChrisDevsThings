@@ -1,16 +1,15 @@
 # 👋 Hey, I'm Chris.  
-💻 College student | Learning C++ and Java & Web Dev                                                                                                                           
+💻 College student | Learning Python and Web Dev & C++                                                                                                                        
 🔧 Documenting my coding journey  
 
 ## 🚀 Current Focus: 
+- Python
 - Web Dev (HTML, CSS, JS)
-- Software Development (C, C++ and C#)
-- Building Discord bots & Minecraft plugins later  
+- Software Development (C++)
 
 ## 🌟 Goals:
 - Contribute daily → fill this graph with green squares  
 - Build a freelancing side income  
-- Share my progress on YouTube & IG  
 
 ## ⚡ Fun Fact:
 I like turtles. 🐢
