@@ -8,8 +8,7 @@
 - Software Development (C++)
 
 ## 🌟 Goals:
-- Contribute daily → fill this graph with green squares  
-- Build a freelancing side income  
+- Contribute daily → fill this graph with green squares
 
 ## ⚡ Fun Fact:
 I like turtles. 🐢
